@@ -17,4 +17,8 @@
 
 **Workshop Material**
 
-Will be shared during the workshop
+* [Intro](https://github.com/JCMuleSoft/APILedWorkshop/blob/main/F%26P%20-%20API-led%20Connectivity%20Workshop%20-%20Intro.pdf)
+* [Module 1](https://github.com/JCMuleSoft/APILedWorkshop/blob/main/F%26P%20-%20Module%201%20-%20The%20Modern%20API%20-%20Design.pdf)
+* [Module 2](https://github.com/JCMuleSoft/APILedWorkshop/blob/main/F%26P%20-%20Module%202%20-%20The%20Modern%20API%20-%20Implementation.pdf)
+* [Module 3](https://github.com/JCMuleSoft/APILedWorkshop/blob/main/F%26P%20-%20Module%203%20-%20The%20Modern%20API%20-%20Govern%20and%20Secure.pdf)
+* [Module 4](https://github.com/JCMuleSoft/APILedWorkshop/blob/main/F%26P%20-%20Module%204%20-%20The%20Modern%20API%20-%20Operations.pdf)
